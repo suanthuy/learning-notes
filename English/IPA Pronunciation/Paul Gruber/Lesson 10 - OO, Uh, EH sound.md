@@ -3,3 +3,7 @@
 ## Back vowels
 
 OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
+
+## OO words
+
+  Examples: blue, booth, news, juice, loosen
