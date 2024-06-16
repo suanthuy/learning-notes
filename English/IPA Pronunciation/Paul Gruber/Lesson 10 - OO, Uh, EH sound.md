@@ -4,7 +4,7 @@
 
 OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
 
-## OO words /u:/
+## OO sounds - /u:/
 
 '''
 
@@ -19,4 +19,16 @@ OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
     
 '''
 
-Food - OO, Foot - Uh
+## Uh sounds
+Food - OO, Foot - Uh  
+
+  Example: 
+    foot, took, cook, shook, stood, good, look, book, wool, swoosh
+    **Would** you please order the **wood** from **Hollywood**?
+    Very **good**!
+
+## OO and Uh sounds
+
+  Example: 
+    He took a good look under the hood and found flue.
+    **Julie** enjoys good books after **school**
