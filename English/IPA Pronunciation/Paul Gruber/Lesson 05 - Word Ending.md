@@ -20,4 +20,14 @@ Need to pronoun the sound ending of the word. Do not clip off the ending of word
 	- Example: JumpT - Jumped,  Walked - WalkT
 - If a word ends in a Voiced consonant, Add a Voiced D.
 	- Example: Rubbed - RubbD, Cleaned - CleanD, Poured - PourD, Scrubbed - ScrubbD, Tagged - TaggD, Spilled - SpillD, Trimmed - TrimmD, Moved - MoveD, Buzzed - BuzzD
-- If the 
+- If a word ends in a T or D, Add -ID.
+	- T is between two voiced vowels --> T becomes D.
+	- Example: 
+		- Lifted, Heated, Voted, Handed, Traded
+		- Bod raked the leaves and then start**ed** to wash his car. He then load**ed** up the dishwasher and finish**ed** washing his dishes.
+		- Susan spilled her drink on the spotted rug. She cleaned it up with her napkin, which wasted a lot of time.
+		- He thanked me and offered me money if I picked up the used equipment.
+## NG Endings
+Nose sound --> M, N, NG
+
+	Example: I have a feeling that she is  working too much. She has been wearing a hearing aid so that she could sing. He is looking forward to speaking at the Thanksgiving celebration.
