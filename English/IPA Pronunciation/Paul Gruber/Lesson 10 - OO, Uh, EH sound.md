@@ -31,4 +31,4 @@ Food - OO, Foot - Uh
 
   Example: 
     He took a good look under the hood and found flue.
-    **Julie** enjoys good books after **school**
+    **Julie** enjoys good books after **school**.
