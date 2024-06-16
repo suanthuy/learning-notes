@@ -14,5 +14,9 @@ OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
     Tuesday at noon in the studio.
     Viewing the moon on June nights.
     Do you remember the woman who lived in a shoe?
+    She hadn't a clue what to do when her family grew.
+    Well, through your help, they are moving in June into two big boots.
     
 '''
+
+Food - OO, Foot - Uh
