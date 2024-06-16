@@ -4,6 +4,6 @@
 
 OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
 
-## OO words
+## OO words /u:/
 
   Examples: blue, booth, news, juice, loosen
