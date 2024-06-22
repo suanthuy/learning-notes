@@ -1,7 +1,6 @@
-
 ## Back vowels
 
-OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
+ Open your mouth bigger: OO - Boot --> Uh - Book --> Oh - Boat --> Aw - Bought --> Ah - Bot
 
 ## OO sounds - /u:/
 
@@ -24,6 +23,17 @@ Food - OO, Foot - Uh
 
 ## OO and Uh sounds
 
-  Example: 
-    He took a good look under the hood and found flue.
-    **Julie** enjoys good books after **school**.
+	Example: 
+		He took a good look under the hood and found **flute**.
+		**Julie** enjoys good books after **school**.
+		He *put* his *foot* in the **new boot**.
+		She *took* her **students** to the *brook*, to wash their **shoes**.
+		We *pulled* him out of the swimming **pool**.
+		The **fool** ate until he was *full*.
+
+## EH sounds - /e/
+	Example:
+		egg, get, friend, next, entrance, better, healthy, lettuce, wrench, spread, best, ready, every, red, exit, check, fence, headset, necklace, wealth
+		Resting on the edge of the bed. Ten letters from the enemy. Dennis will enter the festival. The message was given to the chef.
+		Hello again, friends! Let's do a weather check.
+		Well, whoever said temperatures are getting better, better get ready to spend a wet weekend in Tennessee.
