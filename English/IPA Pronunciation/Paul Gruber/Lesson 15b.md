@@ -29,5 +29,13 @@
 27. Justice --> They add the judge of justice.
 28. Likeable --> He is very likeable.
 29. Loosen --> It's too tight, we need to loosen it.
+30. Measurements --> The measurements were accurate.
+31. Middle --> We get paid in the middle of the month.
+32. Multiple --> We have multiple offices in the city.
+33. National --> Our story made the national news.
+34. Original --> Your idea is certainly original.
+35. Outrageous --> That was a outrageous request.
+36. Particular --> She want a particular car.
+37. Partnership --> We have a solid partnership.
 
 
