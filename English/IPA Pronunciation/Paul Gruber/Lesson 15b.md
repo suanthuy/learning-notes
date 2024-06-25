@@ -26,6 +26,8 @@
 24. Inconvenience --> The power outed was a big inconvenience.
 25. Introduce --> Let me introduce you.
 26. Irrational --> His feel of elevators was irrational.
-27. Justice --> 
+27. Justice --> They add the judge of justice.
+28. Likeable --> He is very likeable.
+29. Loosen --> It's too tight, we need to loosen it.
 
 
