@@ -37,5 +37,10 @@
 35. Outrageous --> That was a outrageous request.
 36. Particular --> She want a particular car.
 37. Partnership --> We have a solid partnership.
+38. Problem --> They no longer have a problem.
+39. Prohibit --> They prohibit the use of alcohol.
+40. Quality --> This shirtis made of good quality.
+41. Question --> Please ask me a question.
+42. Referring --> 
 
 
