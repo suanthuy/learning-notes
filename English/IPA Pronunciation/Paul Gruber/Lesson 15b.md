@@ -14,6 +14,13 @@
 12. Corporation --> She works for a huge corporation.
 13. Differences --> There are many differences between us.
 14. Directly --> She is directly responsible.
-15. Exactly --> 
+15. Exactly --> It's exactly what we always wanted.
+16. Educational --> The movie is very educational.
+17. Every --> We travel every year.
+18. Exceptional --> She is an exceptional student.
+19. Familiar --> She has a familiar face.
+20. Financial --> New York is a great financial center.
+21. Frustrating --> Good pronunciation can be frustrating.
+22. General --> Give me a general idea.
 
 
