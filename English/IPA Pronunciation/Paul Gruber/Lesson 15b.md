@@ -22,5 +22,10 @@
 20. Financial --> New York is a great financial center.
 21. Frustrating --> Good pronunciation can be frustrating.
 22. General --> Give me a general idea.
+23. Immediately --> Once I took the phone cell, I left immediately.
+24. Inconvenience --> The power outed was a big inconvenience.
+25. Introduce --> Let me introduce you.
+26. Irrational --> His feel of elevators was irrational.
+27. Justice --> 
 
 
