@@ -1,0 +1,7 @@
+## A foreign student
+
+When a student from another country comes to study in the United States, he has to find out for himself the answers to many questions, and he has many problems to think about. Where should he live? Would it be better living in a dormitory, or in a private room off campus? Should he spend all of his time studying, or should he take advantage of the many cultural and social activities that are offered? At first, he may not feel that he fits in with the American culture. He may not feel confident when he speaks. Little by little, however, he learns how to handle himself in various situations. Finally he begins to feel very secure and 'at home'. Unfortunately, this long awaited feeling doesn't develop suddenly. It takes time.
+
+## Volcanoes
+
+Volcanoes are holes in the Earth's crust which allow molten rock to escape from beneath. The molten rock, or lava, may flow out gently or it may be blasted high in the air with gas and ash in a violent explosion. There are 850 active volcanoes around the world. Do you know where these mountains of fire are found? Three quarters of them are found within a zone called the "Ring of Fire". One edge of the zones stretches along the west coast of the Americas from Chile to Alaska. The other edge runs along the east coast of Asia from Siberia to New Zealand. 20 percent of these volcanoes are located in Indonesia. 
