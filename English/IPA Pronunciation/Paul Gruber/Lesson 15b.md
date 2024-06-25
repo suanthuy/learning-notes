@@ -41,6 +41,7 @@
 39. Prohibit --> They prohibit the use of alcohol.
 40. Quality --> This shirtis made of good quality.
 41. Question --> Please ask me a question.
-42. Referring --> 
+42. Referring --> What are you referring to?
+43. Regardless --> I want to reduce this project regardless of the cost.
 
 
