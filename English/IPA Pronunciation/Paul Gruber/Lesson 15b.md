@@ -46,5 +46,9 @@
 44. Request --> They made a special request.
 45. Similar --> We have similar opinions.
 46. Specific --> Please be specific.
+47. Value --> I value our friendship.
+48. Visualize --> Can you visualize what you'll be doing in 10 years?
+49. Vulnerable --> Without the police, they were very vulnerable.
+50. Working --> I've been working on this video for 6 years.
 
 
