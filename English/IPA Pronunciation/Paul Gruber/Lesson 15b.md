@@ -43,5 +43,8 @@
 41. Question --> Please ask me a question.
 42. Referring --> What are you referring to?
 43. Regardless --> I want to reduce this project regardless of the cost.
+44. Request --> They made a special request.
+45. Similar --> We have similar opinions.
+46. Specific --> Please be specific.
 
 
