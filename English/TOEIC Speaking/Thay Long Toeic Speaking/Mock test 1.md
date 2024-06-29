@@ -1,3 +1,5 @@
+_Link: https://www.youtube.com/watch?v=vRm77DETg-s 
+
 ![[Pasted image 20240629102417.png]]
 ![[Pasted image 20240629102427.png]]
 ![[Pasted image 20240629111453.png]]

@@ -1,0 +1,18 @@
+*Link: https://www.youtube.com/watch?v=lgKUIkjDTAk
+
+![[Pasted image 20240629222136.png]]
+![[Pasted image 20240629222143.png]]
+![[Pasted image 20240629222157.png]]
+![[Pasted image 20240629222211.png]]
+![[Pasted image 20240629222217.png]]
+![[Pasted image 20240629222228.png]]
+![[Pasted image 20240629222335.png]]
+![[Pasted image 20240629222341.png]]
+![[Pasted image 20240629222349.png]]
+![[Pasted image 20240629222356.png]]
+![[Pasted image 20240629222403.png]]
+![[Pasted image 20240629222409.png]]
+![[Pasted image 20240629222419.png]]
+![[Pasted image 20240629222424.png]]
+![[Pasted image 20240629222431.png]]
+![[Pasted image 20240629222437.png]]
